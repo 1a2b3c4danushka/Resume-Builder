@@ -1,7 +1,7 @@
 # Resume-Builder
 Web based editor to create Resume in a customizable template with the facility to save the file in .pdf formate.
 
-Live Demo : 
+Live Demo : https://1a2b3c4danushka.github.io/Resume-Builder/
 Technologies: HTML, CSS, JavaScript
 Note : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
